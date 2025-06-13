@@ -1,3 +1,65 @@
-.title-color {
-  color: blueviolet;
+/* @media (min-width: 300px){
+  body{
+    background-color: black;
+  }
 }
+@media (min-width: 600px){
+  body{
+    background-color: red;
+  }
+}
+@media(min-width:900px){
+  body{
+    background-color: green;
+  }
+}
+@media(min-width: 901px){
+  body{
+    background-color: blue;
+  }
+} */
+
+/* .quadrado{
+  width: 200px;
+  height: 200px;
+}
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+.linha {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+} */
+
+/* @media (max-width: 500px){  
+  .container{              
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .linha {
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+  }
+  .quadrado{
+    width: 100px;
+    height: 100px;
+  }
+} */
+/*Min 500px quer dizer que quando chegar em 500px vas aplicar as propriedades do css*
+ /*Max 500px quer dizer que só aplica propriedades até 500px*/
+body{
+  margin: 0;
+  padding: 0;
+}
+ .navbar{
+  height: 64px;
+  background-color: black;
+ }
